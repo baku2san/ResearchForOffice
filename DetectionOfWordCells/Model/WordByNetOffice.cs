@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DetectionOfWordCells.Model
+namespace ResearchForOffice.Model
 {
     internal class WordByNetOffice
     {

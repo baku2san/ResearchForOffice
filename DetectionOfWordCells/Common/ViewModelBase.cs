@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DetectionOfWordCells.Common
+namespace ResearchForOffice.Common
 {
     using System.ComponentModel;
 

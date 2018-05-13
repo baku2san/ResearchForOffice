@@ -1,12 +1,12 @@
-﻿using DetectionOfWordCells.Common;
-using DetectionOfWordCells.Model;
+﻿using ResearchForOffice.Common;
+using ResearchForOffice.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DetectionOfWordCells.ViewModel
+namespace ResearchForOffice.ViewModel
 {
     public class MainViewModel : ViewModelBase
     {

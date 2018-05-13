@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace DetectionOfWordCells.Common
+namespace ResearchForOffice.Common
 {
     /// </summary> 
     public class DelegateCommand : ICommand
