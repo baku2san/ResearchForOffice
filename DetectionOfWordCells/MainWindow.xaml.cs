@@ -29,6 +29,8 @@ namespace ResearchForOffice
         {
             var dialog = new OpenFileDialog();
             dialog.Title = "ファイルを開く";
+            dialog.Filter = "ワードファイル|*.doc;*.docx";
+            dialog.Filter = "エクセルファイル|*.xls;*.xlsx";
             dialog.Filter = "全てのファイル(*.*)|*.*";
             if (dialog.ShowDialog().Value)
             {
